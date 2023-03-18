@@ -15,7 +15,7 @@ $(document).ready(function(){
     $(".class-home-click").css("border-color", "#ced6e0");
     $(".class-contact-click").css("border-color", "#ced6e0");
     $(".class-about-click").css("border-color", "#ced6e0");
-    $("object").attr('data', 'Resume.pdf');
+    // $("object").attr('data', 'Resume.pdf');
   });
 
   $(".class-contact-click").click(function(){
