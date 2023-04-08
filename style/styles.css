@@ -1,5 +1,5 @@
 #homeId{
-  background-color: #2f3640;
+  background-color: #fff;
   min-height: 100vh;
   padding-top: 8%;
 }
@@ -35,9 +35,9 @@
 }
 
 #title{
-  font-size: 80px;
-  font-family: serif;
-  color: #0097e6;
+  font-size: 60px;
+  font-family: 'Courier';
+  color: #000;
   font-weight: 400;
   /*text-align: left;*/
   word-spacing: unset; 
@@ -47,10 +47,12 @@
 .class-tag{
   /*text-align: left;*/
   font-size: 20px;
-  color: #f5f6fa;
+  font-family: 'Courier';
+  color: #000;
+  font-weight: 500;
 }
 
-.class-home-title-image{
+/* .class-home-title-image{
   height: 250px; 
   width: 250px; 
   padding: 0; 
@@ -59,7 +61,7 @@
   background-position: center;
   background-size: contain;
   filter: grayscale(100%);
-}
+} */
 
 @media screen and (max-width: 1200px){
   #title{
