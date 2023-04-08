@@ -21,7 +21,7 @@
 
 .class-tag{
   text-align: left;
-  font-size: 1.1em;
+  font-size: 1.05em;
   font-family: 'Courier', Courier, monospace;
   color: #000;
   font-weight: normal;
@@ -32,6 +32,10 @@
 .class-all-slim{
     padding: 0;
     margin: 0;
+}
+
+.class-left-tab-pad{
+    padding-left: 2em;
 }
 
 .class-top-heavy{
