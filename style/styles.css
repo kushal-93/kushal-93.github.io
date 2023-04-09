@@ -21,7 +21,7 @@
 
 .class-tag{
   text-align: left;
-  font-size: 1.05em;
+  font-size: 1.1em;
   font-family: 'Courier', Courier, monospace;
   color: #000;
   font-weight: normal;
@@ -55,6 +55,14 @@
     color: rgb(105, 102, 102);
     text-shadow: 0.4px 0 rgb(105, 102, 102);;
     /* text-shadow: 0.3px 0 rgb(14, 180, 28); */
+}
+
+.class_key_font{
+    color: #BD3241;
+    font-size: 1.1em;
+    font-family: 'Courier', Courier, monospace;
+    font-weight: normal;
+    text-shadow: 0.6px 0 #7F342C;
 }
 
 /* .class-home-title-image{
